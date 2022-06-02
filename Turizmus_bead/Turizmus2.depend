@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1622406239 source:d:\bead\turizmus\main.cpp
+	<iostream>
+	"City.h"
+	<fstream>
+
+1622406132 d:\bead\turizmus\include\city.h
+	"Turist.h"
+	<string>
+	<iostream>
+
+1622397726 d:\bead\turizmus\include\turist.h
+
+1622406170 source:d:\bead\turizmus\src\city.cpp
+	"City.h"
+
+1621200539 source:d:\bead\turizmus\src\turist.cpp
+	"Turist.h"
+
